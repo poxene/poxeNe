@@ -1,1 +1,3 @@
-`console.log('Hi, try to keep good vibes :-)')`
+```ts
+console.log('Hello, world!')
+```
